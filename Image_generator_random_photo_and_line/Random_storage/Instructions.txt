@@ -1,0 +1,13 @@
+1.
+
+If 
+	you put words in N text file
+Then
+	chance to remove 1 line
+	+ chance to remove 2 line
+	..
+	..
+	+ chance to remove N-1 line should be less than 100%
+
+2.
+

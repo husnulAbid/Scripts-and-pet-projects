@@ -1,0 +1,27 @@
+1. You should download the files from NWS
+2. You have copy those file and put it in 'Process_Folder'
+3. If you don't find any 'Process_Folder' then create one with exactly same name
+4. You should put valid text file in the 'Process_Folder'
+5. After that just double click 'main.py'
+6. For each file it will take 2 seconds to process
+
+
+Note: 
+
+1. The script will process all the text file in 'Process_Folder'
+2. So Do NOT put any redundent text file in that folder
+3. You should DELETE all the file before inserting to 'Process_Folder'
+4. If there is old text file in 'Process_Folder', script will convert that too
+5. If you put invalid file, or if system can't process, then script can stop
+6. If you face trouble processing multiple file, try one by one.
+7. If a single valid file troubles processing, keep that file and contact with me
+8. My email : habid96@gmail.com
+
+
+Disclosure:
+** Any format change in data can make the script broken
+** In that case, contact with me. We may have to repair it on different contract
+** I tried to make it as much dynamic as possible.
+
+
+Good luck using this !! And Thank you so much. 

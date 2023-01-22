@@ -1,0 +1,17 @@
+Combination = 10
+Drop lines = yes
+
+probability to remove 1 line = 10%
+probability to remove 2 lines = 10%
+probability to remove 3 lines = 10%
+probability to remove 4 lines = 10%
+probability to remove 5 lines = 10%
+probability to remove 6 lines = 10%
+probability to remove 7 lines = 10%
+
+Font Size = 32
+Font Color = 0, 0, 0
+Start_x = 50
+Start_y = 100
+Line_gap = 110
+Font = Azonix.otf

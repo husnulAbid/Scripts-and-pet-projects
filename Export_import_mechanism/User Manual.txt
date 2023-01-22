@@ -1,0 +1,20 @@
+1. Need to install: PySimpleGUI, pytz
+
+2. If you run, there would be two button. Import Configure and Save Configure. 
+
+3. To save a configure:
+	3.1. Click on Save Configure.
+	3.2. Fill up the form with valid input button.
+	3.3. User can keep blank input, but can't give invalid input
+	3.4. Press Save button.
+	3.5. Program will save a json file in a folder named ConfigureFiles
+	3.6. Saved Json file name would be with current time.
+
+4. To import a configure:
+	4.1. Click on Import Configure.
+	4.2. Select a json file (otherwise, program will show error message)
+	4.3. Json file should have valid structure (otherwise, program will show error message)
+	4.4. If Json file is valid program will show values in form fields
+	4.5. User can change the values at form and save again.
+	4.6. User can change values in json file, program will import changed json file
+	4.7. Erorr mechanism have been implemented for invalid json input. 

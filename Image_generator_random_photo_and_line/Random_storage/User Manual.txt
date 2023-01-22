@@ -1,0 +1,48 @@
+1. Please give input in the files located at input folder
+2. Please do not change any folder name or any file name
+3. Open cmd in this folder and Run following command
+	python -u main.py
+
+4. Program will show messages. Wait as it takes time.
+5. Find the images in output_folder
+6. Please save the images in different folder before running the script again
+7. Everytime you run the script it will clear output_folder
+8. You can change content in text files to give input.(not text file names)
+9. Paste your desired photo in 'input_folder/photos' folder.
+10. Image names don't affect the code. (folder & file name does)
+11. It takes around 41 seconds to generate 1000 images (in my pc, it will vary)
+
+
+# Requirements:
+	1. You need to install python 
+	2. You need to install Pillow (Command: Pip install Pillow)
+	3. You may need to install glob (Command: Pip install glob)
+
+
+# Folder Names: (Should not change)
+	1. input_folder
+	2. input_lines
+	3. output_folder
+	4. photos (in input_folder)
+
+
+# File Names: (Should not change)
+	1. hyperParam.txt
+	2. Azonix.otf
+	3. line_1.txt
+	4. line_2.txt
+	5. line_3.txt
+	6. line_4.txt
+	7. line_5.txt
+	8. line_6.txt
+	9. line_7.txt
+	10. line_8.txt
+
+
+# About hyperParam.txt => Please watch attached video
+
+
+# For any anomaly, Please contact me in upWork/Email:
+	Profile : https://www.upwork.com/freelancers/~0128f7ecfc4bb12216
+	Email : habid96@gmail.com
+
